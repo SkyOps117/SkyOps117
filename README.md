@@ -1,8 +1,9 @@
+ 👋 Hello there! @SkyOps117 here.
+ ---
+ 
+ 🌱 I like to make Fallout 76 interface mods and small games. <br>
+ 🤝 I’m looking to collaborate on Fallout 76 actionscript mods and game development. <br>
+ 🔗 My nexus mod profile: [![BunnyHopsIn](./nexus.png)](https://www.nexusmods.com/users/4382192?tab=user+files)
 
-- 👋 Hello there, I am @SkyOps117 or Bolbman on nexus mod.
-
-- 🌱 I make Fallout 76 interface mods.
-
-- 💞️ I’m looking to collaborate on Fallout 76 actionscript mods.
-
-- 📫 Reach me on Discord: SkyHops#8923
+📫 Reach me on Discord: SkyHops#8923 <br>
+---
