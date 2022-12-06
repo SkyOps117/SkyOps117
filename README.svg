@@ -1,0 +1,30 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				body {
+					color: #000000;
+					background: #ffffcb;
+				}
+				.container {
+					color: #000000;
+					background: #ffffcb;
+					height: 500px;
+				}
+			</style>
+			<div class="container">
+				<h1>👋 Hello there! @SkyOps117 here </h1>
+				<p>
+						🌱 I like to make Fallout 76 interface mods and small games.
+
+						🤝 I’m looking to collaborate on Fallout 76 actionscript mods and game development.
+
+						🔗 My nexus mod profile: [![BunnyHopsIn](https://images.nexusmods.com/favicons/ReskinOrange/favicon-16x16.png)](https://www.nexusmods.com/users/4382192?tab=user+files)
+
+						📫 Reach me on Discord: SkyHops#8923
+						---
+				</p>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
