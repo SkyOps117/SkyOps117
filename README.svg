@@ -1,34 +1,36 @@
-<svg fill="none" viewBox="0 0 800 600" width="800" height="600" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-                .bod {
-                        
-                }
-				.container {
-					color: #ffffcb;
-					background: #0d1117;
-					height: 100%;
-                    width: 100%;
-				}
-				h1 {
-					color: #80cdff;
-				}
-                .fo76 {
-                	color: #ffffcb;
-                }
-			</style>
-			<div class="bod">
-                <div class="container">
-                    <h1>👋 Hello there! @SkyOps117 here </h1>
-                    <div class="fo76"> 🌱 I like to make Fallout 76 interface mods and small games. </div>
-                    <div>🤝 I’m looking to collaborate on Fallout 76 actionscript mods and game development.</div>
-                    <div>🔗 My nexus mod profile: </div>
-                    <div>📫 Reach me on Discord: SkyHops#8923</div>
-                </div>
-			</div>
-		</div>
-	</foreignObject>
+<!-- SkyOps117 README with HTML & CSS inside SVG -->
+<svg fill="none" viewBox="0 0 1920 1080" width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .bod {}
+
+        .container {
+          color: #ffffcb;
+          background: #0d1117;
+          height: 100%;
+          width: 100%;
+        }
+
+        h1 {
+          color: #80cdff;
+        }
+
+        .fo76 {
+          color: #ffffcb;
+        }
+      </style>
+      <div class="bod">
+        <div class="container">
+          <h1>👋 Hello there! @SkyOps117 here </h1>
+          <div class="fo76"> 🌱 I like to make Fallout 76 interface mods and small games. </div>
+          <div>🤝 I’m looking to collaborate on Fallout 76 actionscript mods and game development.</div>
+          <div>🔗 My nexus mod profile: </div>
+          <div>📫 Reach me on Discord: SkyHops#8923</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
 
 <!-- 
