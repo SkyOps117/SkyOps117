@@ -9,14 +9,7 @@
           height: 100%;
           width: 100%;
         }
-
-	.container:hover {
-          color: #00cdff;
-          background: #000000;
-          height: 100%;
-          width: 100%;
-        }
-
+	
         h1 {
           color: #80cdff;
         }
