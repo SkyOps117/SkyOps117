@@ -3,6 +3,13 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+	h1 {
+          color: #80cdff;
+        }  
+	div {
+	  border: 3px;
+	  border-color: #00cdff;
+	}
         .container {
           color: #ffffcb;
           background: #000000;
@@ -10,13 +17,8 @@
           width: 100%;
         }
 	
-        h1 {
-          color: #80cdff;
-        }
-	div {
-	  border: 3px;
-	  border-color: #00cdff;
-	}
+
+
       </style>
         <div class="container">
           <h1>👋 Hello there! @SkyOps117 here </h1>
