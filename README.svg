@@ -3,10 +3,6 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .bod {
-	  background: #000;
-	}
-
         .container {
           color: #ffffcb;
           background: #a1a1a1;
@@ -22,7 +18,6 @@
           color: #ffffcb;
         }
       </style>
-      <div class="bod">
         <div class="container">
           <h1>👋 Hello there! @SkyOps117 here </h1>
           <div class="fo76"> 🌱 I like to make Fallout 76 interface mods and small games. </div>
@@ -30,7 +25,6 @@
           <div>🔗 My nexus mod profile: </div>
           <div>📫 Reach me on Discord: SkyHops#8923</div>
         </div>
-      </div>
     </div>
   </foreignObject>
 </svg>
