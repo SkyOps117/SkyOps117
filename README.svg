@@ -13,14 +13,14 @@
         h1 {
           color: #80cdff;
         }
-
-        .fo76 {
-          color: #ffffcb;
-        }
+	div {
+	  border: 3px;
+	  border-color: #00cdff;
+	}
       </style>
         <div class="container">
           <h1>👋 Hello there! @SkyOps117 here </h1>
-          <div class="fo76"> 🌱 I like to make Fallout 76 interface mods and small games. </div>
+          <div>🌱 I like to make Fallout 76 interface mods and small games. </div>
           <div>🤝 I’m looking to collaborate on Fallout 76 actionscript mods and game development.</div>
           <div>🔗 My nexus mod profile: </div>
           <div>📫 Reach me on Discord: SkyHops#8923</div>
