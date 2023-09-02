@@ -1,0 +1,54 @@
+<svg id="svgBall" width="128" height="128" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Author: SkyHops -->
+    <defs>
+        <!-- LIGHTSOURCE 03071e 370617 6a040f 9d0208 d00000 dc2f02 e85d04 f48c06 faa307 ffba08 -->
+        <!-- BLUEGRAD ["03045e","023e8a","0077b6","0096c7","00b4d8","48cae4","90e0ef","ade8f4","caf0f8"] -->
+        <radialGradient id="gradTop" cx="0.5" cy="0.5" r="0.75" fx="0.25" fy="0.25">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.0" />
+            <stop offset="10%" stop-color="#caf0f8" stop-opacity="0.1" />
+            <stop offset="20%" stop-color="#ade8f4" stop-opacity="0.2" />
+            <stop offset="30%" stop-color="#90e0ef" stop-opacity="0.3" />
+            <stop offset="40%" stop-color="#48cae4" stop-opacity="0.4" />
+            <stop offset="50%" stop-color="#00b4d8" stop-opacity="0.5" />
+            <stop offset="60%" stop-color="#0096c7" stop-opacity="0.6" />
+            <stop offset="70%" stop-color="#0077b6" stop-opacity="0.7" />
+            <stop offset="80%" stop-color="#023e8a" stop-opacity="0.8" />
+            <stop offset="90%" stop-color="#03045e" stop-opacity="0.9" />
+            <animate id="anim1" attributeName="r" values="0.75;0.5" dur="0.5s" begin="mainCircle.mousedown" fill="freeze" />
+            <animate id="anim2"  attributeName="fx" values="0.25;0.65" dur="0.5s" begin="mainCircle.mousedown" fill="freeze" />
+            <animate id="anim3"  attributeName="fy" values="0.25;0.65" dur="0.5s" begin="mainCircle.mousedown" fill="freeze" />
+            <animate id="anim4"  attributeName="fx" values="0.65;0.25" dur="2s" begin="mainCircle.mouseup" fill="freeze" />
+            <animate id="anim5"  attributeName="fy" values="0.65;0.25" dur="2s" begin="mainCircle.mouseup" fill="freeze" />
+            <animate id="anim6"  attributeName="r" values="0.5;0.75" dur="2s" begin="mainCircle.mouseup" fill="freeze" />
+        </radialGradient>
+
+    </defs>
+    <g id="mainCircle">
+        <circle id="circleBack" cx="60" cy="60" r="50" fill="#ffffff">
+        </circle>
+        <circle id="circleFX" cx="60" cy="60" r="50" fill="url(#gradTop)">
+            <animate attributeName="r" values="50;45" dur="0.1s" begin="circleBack.mouseenter" fill="freeze" />
+            <animate attributeName="r" values="45;30" dur="0.1s" begin="circleBack.click" fill="freeze" />
+            <animate attributeName="r" values="45;50" dur="0.1s" begin="circleBack.mouseout" fill="freeze" />
+        </circle>
+        <!-- <animateTransform id="animScaleIn" attributeName="transform" attributeType="XML" type="scale" values="1.0;0.5;1.0"
+            dur="1s" begin="mainCircle.mouseenter" />
+        <animateTransform id="animScaleOut" attributeName="transform" attributeType="XML" type="scale" values="1.0;0.5;1.0"
+            dur="1s" begin="animScaleIn.end" /> -->
+    </g>
+</svg>
+
+<!--
+    <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="scale"
+        values="1 1 0.5 0.5;0.5 0.5 0.5 0.5"
+        dur="1s"
+        begin="circle1.click"
+        fill="freeze"/>
+
+    <animate id="fireAnim" attributeName="r" values="50;40;50" dur="0.5s" begin="click" fill="freeze" />
+    <animate attributeName="fx" values="0.25;0.75" dur="1s" begin="click" fill="freeze" />
+    <animate attributeName="fy" values="0.25;0.75" dur="1s" begin="click" fill="freeze" />
+-->
