@@ -11,21 +11,24 @@
 	  border-color: #00cdff;
 	}
         .container {
-          color: #ffffcb;
+          color: #ffffff;
           background: #000000;
           height: 100%;
           width: 100%;
         }
-	
-
+ 	.nexus {
+	  color: #ffffcb;
+	}
 
       </style>
         <div class="container">
           <h1>👋 Hello there! @SkyOps117 here </h1>
           <div>🌱 I like to make Fallout 76 interface mods and small games. </div>
           <div>🤝 I’m looking to collaborate on Fallout 76 actionscript mods and game development.</div>
-          <div>🔗 My nexus mod profile: </div>
-          <div>📫 Reach me on Discord: SkyHops#8923</div>
+          <div id="nexus">
+		  <div>🔗 My nexus mod profile: <div>
+	  </div>
+          <div>📫 Reach me on nexus mods as Enkyia</div>
         </div>
     </div>
   </foreignObject>
