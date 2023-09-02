@@ -8,5 +8,8 @@
 🔗 My nexus mod profile: [![BunnyHopsIn](https://images.nexusmods.com/favicons/ReskinOrange/favicon-16x16.png)](https://www.nexusmods.com/users/4382192?tab=user+files)
 
 ---
+Click the sphere button to test it in a new window. Made of svg only.
 <img src="https://raw.githubusercontent.com/SkyOps117/SkyOps117/main/sphere-btn.svg" alt=""/>
+
+My profile description as svg into the markdown as test.
 <img src="./README.svg" alt="" />
