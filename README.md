@@ -1,4 +1,4 @@
-👋 Hello there! @SkyOps117 here
+👋 Hello there! @SkyOps117 here.
  ---
 
 🌱 I like to make Fallout 76 interface mods and small games.
