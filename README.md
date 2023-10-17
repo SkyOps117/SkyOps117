@@ -4,7 +4,7 @@
 
 @SkyOps117 here on github 
 
-Also named ShyHops, Skyia or Enkyia
+Also named SkyHops, Skyia or Enkyia
 
 ## Currently working on:
 - Web games prototypes; client side only is just temp.
