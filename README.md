@@ -32,38 +32,65 @@ When not handled properly, diacritrical characters can make leak effects outside
 
 After the SVG edit, we can convert them to popular rasterized formats.
 
-<img src="./png/github-octocat.png" alt="" />
+<img src="./png/github-octocat-diff.png" alt="" />
 
 ```Javascript
-// ╔═════════════════╗ 
-// ║ JS test example ║
-// ║ By SkyOps117    ║
-// ╚═════════════════╝
-export default class Template {
-  member0; member1; member2; member3;
-  constructor(param_0, param_1, param_2, param_3) {
-    this.member0 = param_0;
-    this.member1 = param_1;
-    this.member2 = param_2;
-    this.member3 = param_3;
-  };
-
-  fncName = function() {
-    for (let i = 0; i < 3; i++) {
-      console.log("Hello, " + param_0 + "!");
+//  _____                                            
+// |  ___|  _ __    __ _   _ __ ___     ___   ___    
+// | |_    | '__|  / _` | | '_ ` _ \   / _ \ / __|   
+// |  _|   | |    | (_| | | | | | | | |  __/ \__ \   
+// |_|     |_|     \__,_| |_| |_| |_|  \___| |___/   
+//                  ____                              
+//                 |  _ \    ___   _ __               
+//                 | |_) |  / _ \ | '__|              
+//                 |  __/  |  __/ | |                 
+//                 |_|      \___| |_|                 
+//  ____                                      _       
+// / ___|    ___    ___    ___    _ __     __| |  ___ 
+// \___ \   / _ \  / __|  / _ \  | '_ \   / _` | / __|
+//  ___) | |  __/ | (__  | (_) | | | | | | (_| | \__ \
+// |____/   \___|  \___|  \___/  |_| |_|  \__,_| |___/
+//
+// ╔═══════════════════════════════╗ 
+// ║ Frames per seconds statistics ║
+// ║    Javascript module class    ║
+// ║         By SkyOps117          ║
+// ╚═══════════════════════════════╝
+// fps.js
+// Frames per second class
+// Author: SkyHops
+export default class FPS {
+  startTime; value; frames;
+  // Init attributes to 0 and set startTime
+  constructor() {
+    this.startTime = performance.now();
+    this.value = 0; // float milliseconds value
+    this.frames = 0; // Milliseconds
+  }
+  // Update class attributes value and return fps value as a String
+  update() {
+    // Get current total time
+    const t = performance.now();
+    // Get delta time
+    const dt = t - this.startTime;
+    // Reset frames at 1 second delta time
+    if (dt > 1000) {
+      this.value = Math.floor(this.frames * 1000 / dt);
+      this.frames = 0;
+      this.startTime = t;
+    } 
+    else {
+      this.frames++;
     }
-    console.log("Who is, " + param_0 + "!");
-    console.log("What is, " + param_1 + "!");
-    console.log("Where is, " + param_2 + "!");
-    console.log("Bye , " + param_3 + "!");
-    return "Carlos and Spongebob";
-  };
-
+    // Return condition
+    return (this.value <= 0) ? this.frames : this.value;
+  }
 }
 ```
 
-<!-- 
 <img src="https://raw.githubusercontent.com/SkyOps117/SkyOps117/main/retro.svg" alt=""/> 
+
+<!-- 
 ### My profile description as svg into the markdown as test.
 <img src="./README.svg" alt="" />
 -->
