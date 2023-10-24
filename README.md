@@ -46,7 +46,7 @@ When not handled properly, diacritrical characters can make leak effects outside
 
 After the SVG edit, we can convert them to popular rasterized formats.
 
-<img src="./png/github-octocat-diff.png" alt="" />
+<img src="./png/github-octocat-diff-preview.png" alt="" />
 
 ```Javascript
 //  _____                              
