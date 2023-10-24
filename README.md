@@ -61,7 +61,7 @@ After the SVG edit, we can convert them to popular rasterized formats.
 // |_| \_\__,_|\__\___|
 //
 // ╔═══════════════════════════════╗ 
-// ║ Frames per seconds statistics ║
+// ║ Frames per second  statisticz ║
 // ║    Javascript module class    ║
 // ║         By SkyOps117          ║
 // ╚═══════════════════════════════╝
