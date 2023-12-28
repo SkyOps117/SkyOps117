@@ -41,8 +41,6 @@ After the SVG edit, we can convert them to popular rasterized formats.
 
 ## Animated SVG
 
-Click to preview the SVG animation.
-
 <img src="https://raw.githubusercontent.com/SkyOps117/SkyOps117/main/retro.svg" alt=""/> 
 
 ## Javascript example
