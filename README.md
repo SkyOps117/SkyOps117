@@ -120,6 +120,18 @@ Keyboard text art
 <img src="./README.svg" alt="" />
 -->
 
+### BONUS: Write custom text on the fly guide
+```Javascript
+{
+💻:"Tested on Windows OS.",
+📝:"Focus a writing interface when it show text mouse cursor.",
+🎹:"Hold "alt" key + tap 5 time on the numpad 5 key.",
+💖:"Then let go of "alt" key to complete the code."
+}
+```
+
+``` link ```
+
 ### Markdown Inline Code Block STL Example
 
 ```stl
