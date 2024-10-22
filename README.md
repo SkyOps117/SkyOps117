@@ -19,7 +19,7 @@ Current broken website upload was for test of a game project.
 
 ## Game mod page
 
- <strong>Was</strong> and <strong>might not continue</strong> making Fallout 76 interface mods . . .
+ <sup>Was</sup> and might <sub>not</sub> continue making Fallout 76 interface mods . . .
  
 🔗 My nexus mod profile: [![BunnyHopsIn](https://images.nexusmods.com/favicons/ReskinOrange/favicon-16x16.png)](https://www.nexusmods.com/users/4382192?tab=user+files) 
 
