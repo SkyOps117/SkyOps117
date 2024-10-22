@@ -41,7 +41,7 @@ After the SVG edit, we can convert them to popular rasterized formats.
 
 <img src="https://raw.githubusercontent.com/SkyOps117/SkyOps117/main/retro.svg" alt=""/> 
 
-## Javascript example
+## Bad Javascript code example
 
 ```Javascript
 //  _____                              
