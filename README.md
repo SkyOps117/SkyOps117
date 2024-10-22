@@ -120,17 +120,23 @@ Keyboard text art
 <img src="./README.svg" alt="" />
 -->
 
-### BONUS: Write custom text on the fly guide
+### ♥ BONUS: Write custom text on the fly guide ♥
 
--💻Tested on Windows OS.",
+💻Tested on Windows OS.",
 
--📝Inside a focused text input area showing text mouse cursor.
+📝Inside a focused text input area showing text mouse cursor.
 
--🎹Hold "alt" key + tap 5 time on the numpad 5 key.
+🎹Hold "alt" key + tap 5 time on the numpad 5 key.
 
--💖Then let go of "alt" key to complete the code.
+💖Then let go of "alt" key to complete the code.
 
-``` link ```
+📜Code are ASCII for using "alt" only and Unicode when using "alt" + "x"
+
+**If "alt" + "x" doesn't output correctly, add "U+" before the code.
+
+🧑‍💻Insert custom test like this and have fun!
+
+```  ```
 
 ### Markdown Inline Code Block STL Example
 
