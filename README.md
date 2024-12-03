@@ -20,13 +20,6 @@
 • Mouse pointer and cursors; file format png gif cur ani.
 
 
-## Game test
-
-Current broken website upload was for test of a game project.
-
-[skyops117.github.io](https://skyops117.github.io/)
-
-
 ## Game mod page
 
  <sup>Was</sup> and might <sub>not</sub> continue making Fallout 76 interface mods . . .
@@ -35,14 +28,19 @@ Current broken website upload was for test of a game project.
 
 🔥 ~ ~ ~ ~ ~ B̦͊-̜̬̳̾̂̏̾ͯ̎R͔̺̜̥̹͕̂̌̇ͭ̿̃̾͐-͚̞̜͚̫̞͉͍̯̐̔ͪ͂ͥ̂͂ͮ̓̚O͇̦̪̩͕̞̞̗̳̞̠̥͊ͬ͋̇̓͑ͣ̐ͦ̐-̗͎̞̺̤͚̯̣̟̗̦̮̪̮̯͌̍ͦ̏͛ͧ͗̆ͮ̔K̥͈͓̮̞̬̤̥̝̺̳͉͉̝͓̖̝̤͋̾̈̎̇͗ͧ̇͐͂-̱̖̬̞͙̤̠͖̦̦͕̻̭̯̙̫̤͉̘̈́̾͒̿͒̔͗͛ͨͩͅͅḚ̺̱͎̮̣̖̻͇̳̩͙͈͍͙̹̯͖̘̞͙̫͔̆̂͐͊̓̓͂̓͂-̖̪̻̟̞̬̳̲̲̝͓̪̮̹̙̗͖͈͕͇͚̮͖̻̊ͪ̍̃ͫ͌́ͅͅN̰̟͈̮͕̰͕̱̬̙͉͈̞̭̹̳̪̞̠̻͉̭̤̮̘͈̼͕̋̀̐̀ͤͅ-̜̮̼̫̤̬̰̳͓̗͙̼̞̠̥͙̞͙̝̭͍̩̰̪̰̗̭̝̟̽͂ͣ́͗H̲͖͇̲̻̥̜̻̬̼̺̩̝̘͕͈̪̬̘͇̙̫͕͔̰͚̃̈ͩ̉ͬ̐͂-̹̭̝̗̥̰̫̫̦̲̗̣̭͍̙̞̺̥̘̝͖̝͑̆͆͋͋́̂ͣ͑ͅE̠͇̞̦̥̙̤̟̺͍͙͓͖͓͍͈͙̞͚̞̯͛̍͐̓ͬͩ̆ͧ̃̚-̲͕̲̟̞̱̭̙̼̼͈̟̥̰̳̮͙ͭ͐̊̔ͫ̽ͧ̿ͤͥͅA̯̜̟̘̲̯̦͉̖͍̫̼̲̙͉ͬ̑̋ͬ̆̂̐̐̍̍-͖̬͎̫̠̻͚̗͕̩̟ͯ̾̌ͪͪ́͊̿̿̒ͅR͚͔̠̟̟͎̱̤̣͛͗̍̉ͬͩͨ̾̎ͣ-͕͇̪̙̮͍̽ͭ̎͊̓͊̾͗T̹̦̞͛̄͒ͦͤͩ ~ ~ ~ ~ ~ ~ =>
 
-### diacritical example with accents
+### Diacritical example with accents
 
 When not handled properly, diacritrical characters can make leak effects outside it's container
 
 
-## My customization of an SVG example
+## Game test
 
-After the SVG edit, we can convert them to popular rasterized formats.
+Current broken website upload was for test of a game project.
+
+[skyops117.github.io](https://skyops117.github.io/)
+
+
+## Github logo SVG gradient code example
 
 <img src="./png/github-octocat-diff-preview.png" alt="" />
 
@@ -154,7 +152,14 @@ export default class FPS {
 
 ### Examples of custom text
 
-```☺☻♥♥♥  ```
+```
+░▒▓
+┐└┴┬├─┼¬┤
+║═
+╔ ╦ ╗
+╠ ╬ ╣
+╚ ╩ ╝
+```
 
 
 ### Markdown Inline Code Block STL Example
