@@ -1,4 +1,7 @@
-## 👋 Hello there! My name is
+# Page
+
+> 👋 Hello there! My name is
+
 ```
  _____ _       _____         ___   ___  ___ 
 |   __| |_ _ _|     |___ ___|_  | |_  ||_  |
@@ -7,15 +10,22 @@
           |___|     |_|                      
 ```
 
-## Currently working on:
-- Web games prototypes; client side only is just temp.
-- Javascript modules; canvas overlay editor tool stats graphic.
-- Mouse pointer and cursors; file format png gif cur ani.
 
-## Portfolio
+## Currently working on:
+
+• Web games prototypes; client side only is just temp.
+
+• Javascript modules; canvas overlay editor tool stats graphic.
+
+• Mouse pointer and cursors; file format png gif cur ani.
+
+
+## Game test
+
 Current broken website upload was for test of a game project.
 
 [skyops117.github.io](https://skyops117.github.io/)
+
 
 ## Game mod page
 
@@ -29,7 +39,6 @@ Current broken website upload was for test of a game project.
 
 When not handled properly, diacritrical characters can make leak effects outside it's container
 
-<br><br><br>
 
 ## My customization of an SVG example
 
@@ -37,9 +46,11 @@ After the SVG edit, we can convert them to popular rasterized formats.
 
 <img src="./png/github-octocat-diff-preview.png" alt="" />
 
+
 ## Animated SVG
 
 <img src="https://raw.githubusercontent.com/SkyOps117/SkyOps117/main/retro.svg" alt=""/> 
+
 
 ## Bad Javascript code example
 
@@ -91,7 +102,9 @@ export default class FPS {
   }
 }
 ```
-Keyboard text art
+
+
+### Keyboard text art
 
 ```
   _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____________ 
@@ -122,21 +135,27 @@ Keyboard text art
 
 ### ♥ BONUS: Write custom text on the fly guide ♥
 
-💻Tested on Windows OS.",
+💻 Tested on Windows OS.",
 
-📝Inside a focused text input area showing text mouse cursor.
+📝 Inside a focused text input area showing text mouse cursor.
 
-🎹Hold "alt" key + tap 5 time on the numpad 5 key.
+🎹 Hold "alt" key + tap on the numpad key number 3.
 
-💖Then let go of "alt" key to complete the code.
+✅ Make sure numpad lock is on.
 
-📜Code are ASCII for using "alt" only and Unicode when using "alt" + "x"
+💖 Then let go of "alt" key to complete the code.
 
-**If "alt" + "x" doesn't output correctly, add "U+" before the code.
+📜 Code are ASCII for using "alt" only and Unicode when using "alt" + "x"
+
+ If "alt" + "x" doesn't output correctly, add "U+" before the code.
 
 🧑‍💻Insert custom test like this and have fun!
 
-```  ```
+
+### Examples of custom text
+
+```☺☻♥♥♥  ```
+
 
 ### Markdown Inline Code Block STL Example
 
