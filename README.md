@@ -49,6 +49,7 @@ Current broken website upload was for test of a game project.
 
 <img src="https://raw.githubusercontent.com/SkyOps117/SkyOps117/main/retro.svg" alt=""/> 
 
+<img src="https://raw.githubusercontent.com/SkyOps117/SkyOps117/main/svg/earth.svg" alt=""/> 
 
 ### Keyboard text art
 
