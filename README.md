@@ -94,3 +94,5 @@ Current broken website upload was for test of a game project.
 ▔▀▁▂▃▄▅▆▇█▉▊▋▌▐▍▎▏▕
 ▗▖▝▘▙▚▛▜▞▟
 ```
+
+<img src="./README.svg" alt="" />
