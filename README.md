@@ -1,19 +1,34 @@
 # Personal Profile Page
 
-• Web games prototypes; Learning parts of video game.
+**Digital artist student hobbyist learning on the top!**
 
-• Javascript modules; canvas overlay editor tool stats graphic.
+Feel free to message me for personalised mouse pointer or if you have any questions/issues.
 
-• Mouse pointer and cursors; file format png gif cur ani.
+## Profile links
 
-# UNRELATED SECTION!
+Making file svg png gif cur ani. Mouse pointer and cursors for download.
 
-## Game test
 
-Current broken website upload was for test of a game project.
+
+[https://skyops.itch.io/ergonomic-cursors](https://skyops.itch.io/ergonomic-cursors)
+
+Fallout76 interface modding stopped.
+
+[https://www.nexusmods.com/profile/SkyOps117/mods](https://www.nexusmods.com/profile/SkyOps117/mods)
+
+[github.com/SkyOps117/Fallout76-Custom-Crosshair](github.com/SkyOps117/Fallout76-Custom-Crosshair)
+
+3D profile page not interactive with only scenary set.
 
 [skyops117.github.io](https://skyops117.github.io/)
 
+3D video game camera view example.
+
+[skyops117.github.io/web-sandbox/](skyops117.github.io/web-sandbox/)
+
+---
+
+# Unrelated to profile page
 
 ## Github logo SVG gradient code example
 
@@ -90,9 +105,9 @@ Current broken website upload was for test of a game project.
 #### Blocks
 
 ```
-▓▒░
+█▓▒░
 ▔▀▁▂▃▄▅▆▇█▉▊▋▌▐▍▎▏▕
 ▗▖▝▘▙▚▛▜▞▟
 ```
-
+### HTML
 <img src="./README.svg" alt="" />
