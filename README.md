@@ -28,14 +28,7 @@ Fallout76 interface modding stopped.
 
 ---
 
-# Unrelated to profile page
-
-## Github logo SVG gradient code example
-
-<img src="./png/github-octocat-diff-preview.png" alt="" />
-
-
-## Animated SVG
+## Green Retro Grid Animated SVG
 
 <img src="./retro.svg" alt=""/> 
 
