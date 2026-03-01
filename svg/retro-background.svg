@@ -1,0 +1,378 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="margin:auto;background:rgba(0, 0, 0, 0);display:block;z-index:1;position:relative" width="1920"
+  height="1080" preserveAspectRatio="xMidYMid" viewBox="0 0 1920 1080">
+  <g transform="matrix(1 0 0 1 0 -100)">
+    <defs>
+      <linearGradient id="lg-0.07169765965186214" x1="0" x2="0" y1="0" y2="1">
+        <stop stop-color="rgba(0, 0, 0, 1)" offset="0.3"></stop>
+        <stop stop-color="rgba(0, 0, 0, 1)" offset="0.6499999999999999"></stop>
+        <stop stop-color="rgba(0, 0, 0, 1)" offset="1"></stop>
+      </linearGradient>
+      <linearGradient id="fg-lg-0.07169765965186214" x1="0" x2="0" y1="0" y2="1">
+        <stop stop-color="rgba(0, 0, 0, 1)" stop-opacity="1" offset="0.3"></stop>
+        <stop stop-color="rgba(0, 0, 0, 1)" stop-opacity="0.66" offset="0.6499999999999999"></stop>
+        <stop stop-color="rgba(0, 0, 0, 1)" stop-opacity="0" offset="1"></stop>
+      </linearGradient>
+      <style type="text/css">
+        path {
+          fill: none;
+          stroke: #00ff00;
+          stroke-width: 1px
+        }
+      </style>
+    </defs>
+    <rect x="0" y="0" width="1920" height="1080" fill="url(#lg-0.07169765965186214)"></rect>
+    <path d="M0 324 L-13440 1080"></path>
+    <path d="M9.6 324 L-13296 1080"></path>
+    <path d="M19.2 324 L-13152 1080"></path>
+    <path d="M28.8 324 L-13008 1080"></path>
+    <path d="M38.4 324 L-12864 1080"></path>
+    <path d="M48 324 L-12720 1080"></path>
+    <path d="M57.6 324 L-12576 1080"></path>
+    <path d="M67.2 324 L-12432 1080"></path>
+    <path d="M76.8 324 L-12288 1080"></path>
+    <path d="M86.4 324 L-12144 1080"></path>
+    <path d="M96 324 L-12000 1080"></path>
+    <path d="M105.6 324 L-11856 1080"></path>
+    <path d="M115.2 324 L-11712 1080"></path>
+    <path d="M124.8 324 L-11568 1080"></path>
+    <path d="M134.4 324 L-11424 1080"></path>
+    <path d="M144 324 L-11280 1080"></path>
+    <path d="M153.6 324 L-11136 1080"></path>
+    <path d="M163.2 324 L-10992 1080"></path>
+    <path d="M172.8 324 L-10848 1080"></path>
+    <path d="M182.4 324 L-10704 1080"></path>
+    <path d="M192 324 L-10560 1080"></path>
+    <path d="M201.6 324 L-10416 1080"></path>
+    <path d="M211.2 324 L-10272 1080"></path>
+    <path d="M220.8 324 L-10128 1080"></path>
+    <path d="M230.4 324 L-9984 1080"></path>
+    <path d="M240 324 L-9840 1080"></path>
+    <path d="M249.6 324 L-9696 1080"></path>
+    <path d="M259.2 324 L-9552 1080"></path>
+    <path d="M268.8 324 L-9408 1080"></path>
+    <path d="M278.4 324 L-9264 1080"></path>
+    <path d="M288 324 L-9120 1080"></path>
+    <path d="M297.6 324 L-8976 1080"></path>
+    <path d="M307.2 324 L-8832 1080"></path>
+    <path d="M316.8 324 L-8688 1080"></path>
+    <path d="M326.4 324 L-8544 1080"></path>
+    <path d="M336 324 L-8400 1080"></path>
+    <path d="M345.6 324 L-8256 1080"></path>
+    <path d="M355.2 324 L-8112 1080"></path>
+    <path d="M364.8 324 L-7968 1080"></path>
+    <path d="M374.4 324 L-7824 1080"></path>
+    <path d="M384 324 L-7680 1080"></path>
+    <path d="M393.6 324 L-7536 1080"></path>
+    <path d="M403.2 324 L-7392 1080"></path>
+    <path d="M412.8 324 L-7248 1080"></path>
+    <path d="M422.4 324 L-7104 1080"></path>
+    <path d="M432 324 L-6960 1080"></path>
+    <path d="M441.6 324 L-6816 1080"></path>
+    <path d="M451.2 324 L-6672 1080"></path>
+    <path d="M460.8 324 L-6528 1080"></path>
+    <path d="M470.4 324 L-6384 1080"></path>
+    <path d="M480 324 L-6240 1080"></path>
+    <path d="M489.6 324 L-6096 1080"></path>
+    <path d="M499.2 324 L-5952 1080"></path>
+    <path d="M508.8 324 L-5808 1080"></path>
+    <path d="M518.4 324 L-5664 1080"></path>
+    <path d="M528 324 L-5520 1080"></path>
+    <path d="M537.6 324 L-5376 1080"></path>
+    <path d="M547.2 324 L-5232 1080"></path>
+    <path d="M556.8 324 L-5088 1080"></path>
+    <path d="M566.4 324 L-4944 1080"></path>
+    <path d="M576 324 L-4800 1080"></path>
+    <path d="M585.6 324 L-4656 1080"></path>
+    <path d="M595.2 324 L-4512 1080"></path>
+    <path d="M604.8 324 L-4368 1080"></path>
+    <path d="M614.4 324 L-4224 1080"></path>
+    <path d="M624 324 L-4080 1080"></path>
+    <path d="M633.6 324 L-3936 1080"></path>
+    <path d="M643.2 324 L-3792 1080"></path>
+    <path d="M652.8 324 L-3648 1080"></path>
+    <path d="M662.4 324 L-3504 1080"></path>
+    <path d="M672 324 L-3360 1080"></path>
+    <path d="M681.6 324 L-3216 1080"></path>
+    <path d="M691.2 324 L-3072 1080"></path>
+    <path d="M700.8 324 L-2928 1080"></path>
+    <path d="M710.4 324 L-2784 1080"></path>
+    <path d="M720 324 L-2640 1080"></path>
+    <path d="M729.6 324 L-2496 1080"></path>
+    <path d="M739.2 324 L-2352 1080"></path>
+    <path d="M748.8 324 L-2208 1080"></path>
+    <path d="M758.4 324 L-2064 1080"></path>
+    <path d="M768 324 L-1920 1080"></path>
+    <path d="M777.6 324 L-1776 1080"></path>
+    <path d="M787.2 324 L-1632 1080"></path>
+    <path d="M796.8 324 L-1488 1080"></path>
+    <path d="M806.4 324 L-1344 1080"></path>
+    <path d="M816 324 L-1200 1080"></path>
+    <path d="M825.6 324 L-1056 1080"></path>
+    <path d="M835.2 324 L-912 1080"></path>
+    <path d="M844.8 324 L-768 1080"></path>
+    <path d="M854.4 324 L-624 1080"></path>
+    <path d="M864 324 L-480 1080"></path>
+    <path d="M873.6 324 L-336 1080"></path>
+    <path d="M883.2 324 L-192 1080"></path>
+    <path d="M892.8 324 L-48 1080"></path>
+    <path d="M902.4 324 L96 1080"></path>
+    <path d="M912 324 L240 1080"></path>
+    <path d="M921.6 324 L384 1080"></path>
+    <path d="M931.2 324 L528 1080"></path>
+    <path d="M940.8 324 L672 1080"></path>
+    <path d="M950.4 324 L816 1080"></path>
+    <path d="M960 324 L960 1080"></path>
+    <path d="M969.6 324 L1104 1080"></path>
+    <path d="M979.2 324 L1248 1080"></path>
+    <path d="M988.8 324 L1392 1080"></path>
+    <path d="M998.4 324 L1536 1080"></path>
+    <path d="M1008 324 L1680 1080"></path>
+    <path d="M1017.6 324 L1824 1080"></path>
+    <path d="M1027.2 324 L1968 1080"></path>
+    <path d="M1036.8 324 L2112 1080"></path>
+    <path d="M1046.4 324 L2256 1080"></path>
+    <path d="M1056 324 L2400 1080"></path>
+    <path d="M1065.6 324 L2544 1080"></path>
+    <path d="M1075.2 324 L2688 1080"></path>
+    <path d="M1084.8 324 L2832 1080"></path>
+    <path d="M1094.4 324 L2976 1080"></path>
+    <path d="M1104 324 L3120 1080"></path>
+    <path d="M1113.6 324 L3264 1080"></path>
+    <path d="M1123.2 324 L3408 1080"></path>
+    <path d="M1132.8 324 L3552 1080"></path>
+    <path d="M1142.4 324 L3696 1080"></path>
+    <path d="M1152 324 L3840 1080"></path>
+    <path d="M1161.6 324 L3984 1080"></path>
+    <path d="M1171.2 324 L4128 1080"></path>
+    <path d="M1180.8 324 L4272 1080"></path>
+    <path d="M1190.4 324 L4416 1080"></path>
+    <path d="M1200 324 L4560 1080"></path>
+    <path d="M1209.6 324 L4704 1080"></path>
+    <path d="M1219.2 324 L4848 1080"></path>
+    <path d="M1228.8 324 L4992 1080"></path>
+    <path d="M1238.4 324 L5136 1080"></path>
+    <path d="M1248 324 L5280 1080"></path>
+    <path d="M1257.6 324 L5424 1080"></path>
+    <path d="M1267.2 324 L5568 1080"></path>
+    <path d="M1276.8 324 L5712 1080"></path>
+    <path d="M1286.4 324 L5856 1080"></path>
+    <path d="M1296 324 L6000 1080"></path>
+    <path d="M1305.6 324 L6144 1080"></path>
+    <path d="M1315.2 324 L6288 1080"></path>
+    <path d="M1324.8 324 L6432 1080"></path>
+    <path d="M1334.4 324 L6576 1080"></path>
+    <path d="M1344 324 L6720 1080"></path>
+    <path d="M1353.6 324 L6864 1080"></path>
+    <path d="M1363.2 324 L7008 1080"></path>
+    <path d="M1372.8 324 L7152 1080"></path>
+    <path d="M1382.4 324 L7296 1080"></path>
+    <path d="M1392 324 L7440 1080"></path>
+    <path d="M1401.6 324 L7584 1080"></path>
+    <path d="M1411.2 324 L7728 1080"></path>
+    <path d="M1420.8 324 L7872 1080"></path>
+    <path d="M1430.4 324 L8016 1080"></path>
+    <path d="M1440 324 L8160 1080"></path>
+    <path d="M1449.6 324 L8304 1080"></path>
+    <path d="M1459.2 324 L8448 1080"></path>
+    <path d="M1468.8 324 L8592 1080"></path>
+    <path d="M1478.4 324 L8736 1080"></path>
+    <path d="M1488 324 L8880 1080"></path>
+    <path d="M1497.6 324 L9024 1080"></path>
+    <path d="M1507.2 324 L9168 1080"></path>
+    <path d="M1516.8 324 L9312 1080"></path>
+    <path d="M1526.4 324 L9456 1080"></path>
+    <path d="M1536 324 L9600 1080"></path>
+    <path d="M1545.6 324 L9744 1080"></path>
+    <path d="M1555.2 324 L9888 1080"></path>
+    <path d="M1564.8 324 L10032 1080"></path>
+    <path d="M1574.4 324 L10176 1080"></path>
+    <path d="M1584 324 L10320 1080"></path>
+    <path d="M1593.6 324 L10464 1080"></path>
+    <path d="M1603.2 324 L10608 1080"></path>
+    <path d="M1612.8 324 L10752 1080"></path>
+    <path d="M1622.4 324 L10896 1080"></path>
+    <path d="M1632 324 L11040 1080"></path>
+    <path d="M1641.6 324 L11184 1080"></path>
+    <path d="M1651.2 324 L11328 1080"></path>
+    <path d="M1660.8 324 L11472 1080"></path>
+    <path d="M1670.4 324 L11616 1080"></path>
+    <path d="M1680 324 L11760 1080"></path>
+    <path d="M1689.6 324 L11904 1080"></path>
+    <path d="M1699.2 324 L12048 1080"></path>
+    <path d="M1708.8 324 L12192 1080"></path>
+    <path d="M1718.4 324 L12336 1080"></path>
+    <path d="M1728 324 L12480 1080"></path>
+    <path d="M1737.6 324 L12624 1080"></path>
+    <path d="M1747.2 324 L12768 1080"></path>
+    <path d="M1756.8 324 L12912 1080"></path>
+    <path d="M1766.4 324 L13056 1080"></path>
+    <path d="M1776 324 L13200 1080"></path>
+    <path d="M1785.6 324 L13344 1080"></path>
+    <path d="M1795.2 324 L13488 1080"></path>
+    <path d="M1804.8 324 L13632 1080"></path>
+    <path d="M1814.4 324 L13776 1080"></path>
+    <path d="M1824 324 L13920 1080"></path>
+    <path d="M1833.6 324 L14064 1080"></path>
+    <path d="M1843.2 324 L14208 1080"></path>
+    <path d="M1852.8 324 L14352 1080"></path>
+    <path d="M1862.4 324 L14496 1080"></path>
+    <path d="M1872 324 L14640 1080"></path>
+    <path d="M1881.6 324 L14784 1080"></path>
+    <path d="M1891.2 324 L14928 1080"></path>
+    <path d="M1900.8 324 L15072 1080"></path>
+    <path d="M1910.4 324 L15216 1080"></path>
+    <path d="M1920 324 L15360 1080"></path>
+    <g>
+      <path d="M0 324 L1920 324"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 2.4192" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 326.4192 L1920 326.4192"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 4.8384" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 331.25759999999997 L1920 331.25759999999997"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 7.2576" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 338.5152 L1920 338.5152"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 9.6768" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 348.192 L1920 348.192"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 12.096" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 360.288 L1920 360.288"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 14.5152" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 374.8032 L1920 374.8032"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 16.9344" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 391.7376 L1920 391.7376"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 19.3536" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 411.09119999999996 L1920 411.09119999999996"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 21.7728" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 432.864 L1920 432.864"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 24.192" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 457.056 L1920 457.056"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 26.6112" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 483.6672 L1920 483.6672"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 29.0304" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 512.6976 L1920 512.6976"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 31.4496" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 544.1472 L1920 544.1472"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 33.86879999999999" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 578.016 L1920 578.016"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 36.288" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 614.304 L1920 614.304"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 38.7072" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 653.0111999999999 L1920 653.0111999999999"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 41.126400000000004" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 694.1375999999999 L1920 694.1375999999999"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 43.54560000000001" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 737.6831999999999 L1920 737.6831999999999"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 45.96480000000001" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 783.6479999999999 L1920 783.6479999999999"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 48.384000000000015" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 832.0319999999999 L1920 832.0319999999999"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 50.80320000000002" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 882.8352 L1920 882.8352"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 53.22240000000002" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 936.0576 L1920 936.0576"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 55.641600000000025" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 991.6992 L1920 991.6992"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 58.06080000000003" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <g>
+      <path d="M0 1049.76 L1920 1049.76"></path>
+      <animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear"
+        keyTimes="0;1" values="0 0;0 60.48000000000003" begin="0s" dur="0.8333333333333334s"></animateTransform>
+
+    </g>
+    <rect x="0" y="0" width="1920" height="1080" fill="url(#fg-lg-0.07169765965186214)"></rect>
+  </g>
+</svg>
